@@ -11,7 +11,7 @@ Primary email: [Praty1927@gmail.com]
 
 Key accounts: Google, University Portal, LinkedIn, GitHub, Internshala
 
-Primary device: [Andriod, e.g., MacBook Air / Windows Laptop]
+Primary device: [Andriod, Windows Laptop]
 
 Network: Sunil_5GHz
 
